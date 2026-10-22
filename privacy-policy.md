@@ -1,4 +1,3 @@
-```markdown
 # Privacy Policy for OKPassword
 
 **Effective Date: October 22, 2026**
@@ -101,4 +100,3 @@ We may update this Privacy Policy as the app changes. The effective date above w
 
 **Developer:** bing.xiao  
 **Email:** bigtotorouk@gmail.com
-```
